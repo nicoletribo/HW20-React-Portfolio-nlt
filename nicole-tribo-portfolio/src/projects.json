@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Film Finder",
+        "image": "https://user-images.githubusercontent.com/76696641/112046377-f2ddd680-8b19-11eb-91b0-f99a438bd824.png",
+        "description": "Our first project shows a list of movies based on selected genres: horror, comedy, romance, action, and animated. Once the user selects a genre they are given a list of movies fitting that genre specification. The user will then be able to save movies to a “watch list”",
+        "view": "https://GonzalezG97.github.io/project1-film-finder/",
+        "repository": "https://github.com/GonzalezG97/project1-film-finder"
+    },
+    {
+        "id": 2,
+        "name": "Podcast Junkie",
+        "image": "https://user-images.githubusercontent.com/76696641/118306670-57c90380-b4af-11eb-82de-27d7ac88bc60.png",
+        "description": "Our second project allows users to search for podcasts by keyword and genre and returns a list of podcasts fitting those results. On the results page the user can view information about the podcast. The user can then choose to add a podcast from that list to a library (“My Stash”). When the user views their Stash they see the list of podcasts that they have saved with a link to listen to the podcast.",
+        "view": "https://podcast-junkie-nlt.herokuapp.com/",
+        "repository": "https://github.com/ncerva/PodcastJunkie"
+    },
+    {
+        "id": 3,
+        "name": "HW5: Calendar Application",
+        "image": "https://user-images.githubusercontent.com/76696641/109572093-46787980-7ab2-11eb-92ba-2a5557951f5e.png",
+        "description": "My fifth homework assignment was a simple calendar application that allows users to save events for each hour of the day. This was our first assignment utilizing web APIs.",
+        "view": "http://nicoletribo.github.io/HW5-Calendar-Application-NLT/",
+        "repository": "https://github.com/nicoletribo/HW5-Calendar-Application-NLT"
+    },
+    {
+        "id": 4,
+        "name": "HW6: Weather Dashboard",
+        "image": "https://user-images.githubusercontent.com/76696641/110419453-f9227c00-805e-11eb-9947-75026fe346a5.png",
+        "description": "My sixth homework assignment was an application where users can search the weather by city and get a 5 day forecast, using third-party APIs.",
+        "view": "http://nicoletribo.github.io/HW6-Weather-Dashboard-NLT",
+        "repository": "https://github.com/nicoletribo/HW6-Weather-Dashboard-NLT"
+    },
+    {
+        "id": 5,
+        "name": "HW10: Team Profile Generator",
+        "image": "https://user-images.githubusercontent.com/76696641/113661270-67149000-966b-11eb-9ca6-ba03c98a8e0b.png",
+        "description": "My 10th homework assignment was a Node.js command-line application that takes in information about employees, then generates an HTML webpage that displays summaries for each person. We also had to write a unit test for every part of the code and ensure that it passes each test.",
+        "view": "https://drive.google.com/file/d/1zNe33QBQBSpdh_cCJSy1_3RRap8fGei6/view",
+        "repository": "https://github.com/nicoletribo/HW10-Team-Profile-Generator-NLT"
+    },
+    {
+        "id": 6,
+        "name": "HW11: Note Taker",
+        "image": "https://user-images.githubusercontent.com/76696641/114490663-da258580-9bda-11eb-81bc-d3716c508256.png",
+        "description": "My 11th homework assignment was an application that can be used to write and save notes. This application uses an Express.js back end and saves and retrieves note data from a JSON file",
+        "view": "https://hw11-note-taker-nlt.herokuapp.com/",
+        "repository": "https://github.com/nicoletribo/HW11-Note-Taker-NLT"
+    },
+    {
+        "id": 7,
+        "name": "HW18: Budget Tracker",
+        "image": "https://user-images.githubusercontent.com/76696641/120906365-79d12400-c61e-11eb-8a52-5adf31431634.png",
+        "description": "My 18th homework assignment was a creating a budget tracker application that allowed the user to add expenses and deposits to their budget with or without a connection. When entering transactions offline, users can populate the total when brought back online.",
+        "view": "https://budget-tracker-nlt.herokuapp.com/",
+        "repository": "https://github.com/nicoletribo/HW18-Budget-Tracker-nlt/blob/main/README.md"
+    },
+    {
+        "id": 8,
+        "name": "HW19: Employee Directory",
+        "image": "https://user-images.githubusercontent.com/76696641/121779056-6b739280-cb5f-11eb-9c65-5c6a3b5f22a8.png",
+        "description": "My 19th homework assignment was creating an employee directory with React. This assignment required us to break up our application's UI into components, manage component state, and respond to user events. When the user loads the page, a table of employees should render.",
+        "view": "https://nicoletribo.github.io/HW19-Employee-Directory-nlt/",
+        "repository": "https://github.com/nicoletribo/HW19-Employee-Directory-nlt"
+    },
+    {
+        "id": 9,
+        "name": "More Work Coming Soon!",
+        "image": "https://user-images.githubusercontent.com/76696641/118530769-a45c4b00-b70a-11eb-889a-611d36327c05.png",
+        "description": "As I continue to grow as a software developer, more projects will be added here.",
+        "view": "nicoletribo@yahoo.com",
+        "repository": "https://github.com/nicoletribo"
+    }
+]
