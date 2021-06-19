@@ -12,7 +12,7 @@ function Navbar() {
         <div className="navbar-item">
           <NavLink
             to="/"
-            style={{ color: 'white' }}
+            style={{ color: 'black' }}
             className= { 
             window.location.pathname === "/" || window.location.pathname === "/about"
               ? "nav-link active"
@@ -25,7 +25,7 @@ function Navbar() {
         <div className="navbar-item">
         <NavLink
             to="/portfolio"
-            style={{ color: 'white' }}
+            style={{ color: 'black' }}
             className={window.location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}>
           Portfolio
           </NavLink>
@@ -33,7 +33,7 @@ function Navbar() {
         <div className="navbar-item">
         <NavLink
             to="/contact"
-            style={{ color: 'white' }}
+            style={{ color: 'black' }}
             className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}>
         Contact
         </NavLink>
@@ -44,10 +44,10 @@ function Navbar() {
     <section id="navbarBasicExample" className="hero is-small">
       <div className="hero-body">
         <div className="container has-text-centered">
-          <p className="title has-text-white">
+          <p className="title">
             Nicole Tribo
             </p>
-            <p className="subtitle has-text-white">
+            <p className="subtitle">
               Welcome to my portfolio!
             </p>
         </div>
