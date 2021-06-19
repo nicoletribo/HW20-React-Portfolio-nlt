@@ -12,7 +12,7 @@ class Portfolio extends Component {
   
   render() {
     return (
-      <div>
+      <div className="columns is-multiline">
       {this.state.projects.map(project =>(
         <PortfolioCard
         id={project.id}
