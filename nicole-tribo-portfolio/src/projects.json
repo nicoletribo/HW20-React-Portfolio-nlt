@@ -65,6 +65,14 @@
     },
     {
         "id": 9,
+        "name": "HW21: Google Books Search",
+        "image": "https://user-images.githubusercontent.com/76696641/123518077-f4afbc80-d669-11eb-9cd0-e2e70488accc.png",
+        "description": "We created a new React-based Google Books Search app. This assignment required us to create React components, work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches. We also used Node, Express and MongoDB so that users can save books to review or purchase later.",
+        "view": "https://google-books-search-nlt.herokuapp.com/",
+        "repository": "https://github.com/nicoletribo/HW21-Google-Books-Search-nlt"
+    },
+    {
+        "id": 10,
         "name": "More Work Coming Soon!",
         "image": "https://user-images.githubusercontent.com/76696641/118530769-a45c4b00-b70a-11eb-889a-611d36327c05.png",
         "description": "As I continue to grow as a software developer, more projects will be added here.",
