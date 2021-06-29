@@ -4,7 +4,7 @@
 
 This is my updated portfolio page using React. As I continue through the program my portfolio will continue to build.
 
-## View Deployed Application [Here](https://nicoletribo.github.io/HW20-React-Portfolio-nlt/)
+## View Deployed Application [Here](https://nicoletribo.github.io/React-Portfolio-nlt/)
 
 ## Questions
 
